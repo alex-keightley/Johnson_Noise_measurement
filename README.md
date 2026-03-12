@@ -52,6 +52,8 @@ To recompile the paper run the LaTeX build recipe: pdflatex $\to$ bibtex $\to$ p
 
 ## Sample Figures
 
+NOTE: Figure details and legends are included in the paper's figure captions in johnson_noise_analysis.pdf
+
 Calibration curves:
 ![Calibration Curves](/figures/calibration.png)
 
